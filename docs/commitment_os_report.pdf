@@ -1,0 +1,200 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3842 >>
+stream
+BT
+/F1 24 Tf 1 0 0 1 54 760 Tm (CommitmentOS) Tj
+/F1 13 Tf 1 0 0 1 54 730 Tm (Verified Deadline and Obligation Management Agent Network) Tj
+/F1 9 Tf 1 0 0 1 54 708 Tm (Project Report | Neuro-San Studio | 7 September 2026) Tj
+/F1 15 Tf 1 0 0 1 54 680 Tm (Executive Summary) Tj
+/F1 10 Tf 1 0 0 1 54 659 Tm (CommitmentOS is a multi-agent network that converts scattered emails, documents, and) Tj
+/F1 10 Tf 1 0 0 1 54 645 Tm (personal notes into a verified and prioritized action plan.) Tj
+/F1 10 Tf 1 0 0 1 54 626 Tm (It is designed for situations where missing one requirement or deadline can cause financial) Tj
+/F1 10 Tf 1 0 0 1 54 612 Tm (loss, rejected applications, missed appointments, or unnecessary stress.) Tj
+/F1 10 Tf 1 0 0 1 54 593 Tm (The network combines document understanding, evidence verification, prioritization, action) Tj
+/F1 10 Tf 1 0 0 1 54 579 Tm (planning, communication drafting, and approval-gated automation in one workflow.) Tj
+/F1 15 Tf 1 0 0 1 54 557 Tm (1. Problem Statement) Tj
+/F1 10 Tf 1 0 0 1 54 536 Tm (Important obligations are usually distributed across email messages, PDF forms, chat) Tj
+/F1 10 Tf 1 0 0 1 54 522 Tm (messages, notes, and calendar entries.) Tj
+/F1 10 Tf 1 0 0 1 54 503 Tm (People must manually find every requirement, identify the real deadline, determine what is) Tj
+/F1 10 Tf 1 0 0 1 54 489 Tm (missing, decide what to do first, and write follow-up messages.) Tj
+/F1 10 Tf 1 0 0 1 54 470 Tm (This creates four major risks: missed deadlines, incorrect interpretation of requirements,) Tj
+/F1 10 Tf 1 0 0 1 54 456 Tm (incomplete submissions, and accidental communication or submission without review.) Tj
+/F1 10 Tf 1 0 0 1 54 437 Tm (A normal summarizer is not enough. The solution must preserve evidence, expose uncertainty,) Tj
+/F1 10 Tf 1 0 0 1 54 423 Tm (resolve conflicts, and produce actions that a person can safely approve.) Tj
+/F1 15 Tf 1 0 0 1 54 401 Tm (2. Purpose of CommitmentOS) Tj
+/F1 10 Tf 1 0 0 1 54 380 Tm (The purpose of CommitmentOS is to act as a reliable obligation-management assistant.) Tj
+/F1 10 Tf 1 0 0 1 54 361 Tm (It answers: What must be done? By when? Who is responsible? What evidence supports it? What) Tj
+/F1 10 Tf 1 0 0 1 54 347 Tm (is missing? What should happen next?) Tj
+/F1 10 Tf 1 0 0 1 54 328 Tm (It is useful for scholarships, university applications, bills, renewals, insurance claims,) Tj
+/F1 10 Tf 1 0 0 1 54 314 Tm (travel documents, appointments, workplace requests, and other deadline-driven workflows.) Tj
+/F1 15 Tf 1 0 0 1 54 292 Tm (3. Working and Architecture) Tj
+/F1 10 Tf 1 0 0 1 54 271 Tm (The user supplies email text, document text, notes, or a natural-language request. Optional) Tj
+/F1 10 Tf 1 0 0 1 54 257 Tm (Sly Data fields are email, documents, notes, and automation_mode.) Tj
+/F1 10 Tf 1 0 0 1 54 238 Tm (The front-man agent coordinates specialist agents and returns one clear response with an) Tj
+/F1 10 Tf 1 0 0 1 54 224 Tm (executive summary, obligation table, missing information, recommended sequence, automation) Tj
+/F1 10 Tf 1 0 0 1 54 210 Tm (status, drafts, and risks.) Tj
+/F1 10 Tf 1 0 0 1 54 191 Tm (The network contains seven agents:) Tj
+/F1 10 Tf 1 0 0 1 54 172 Tm (- CommitmentOS front man: coordinates the workflow and communicates with the user.) Tj
+/F1 10 Tf 1 0 0 1 54 153 Tm (- Source Intake Agent: extracts actions, dates, owners, consequences, dependencies, and) Tj
+/F1 10 Tf 1 0 0 1 54 139 Tm (source references.) Tj
+/F1 10 Tf 1 0 0 1 54 120 Tm (- Evidence Verification Agent: checks claims against source text and identifies) Tj
+/F1 10 Tf 1 0 0 1 54 106 Tm (ambiguity or conflicts.) Tj
+/F1 10 Tf 1 0 0 1 54 87 Tm (- Priority Analyst: ranks obligations as CRITICAL, HIGH, MEDIUM, or LOW.) Tj
+/F1 10 Tf 1 0 0 1 54 68 Tm (- Action Planner: converts obligations into small dependency-aware steps.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 4076 >>
+stream
+BT
+/F1 10 Tf 1 0 0 1 54 760 Tm (- Communication Drafter: prepares concise, source-grounded emails and clarification) Tj
+/F1 10 Tf 1 0 0 1 54 746 Tm (requests.) Tj
+/F1 10 Tf 1 0 0 1 54 727 Tm (- Automation Coordinator: manages approved Gmail and Calendar operations with safety) Tj
+/F1 10 Tf 1 0 0 1 54 713 Tm (controls.) Tj
+/F1 15 Tf 1 0 0 1 54 691 Tm (4. End-to-End Workflow) Tj
+/F1 10 Tf 1 0 0 1 54 670 Tm (1. Intake: collect the user's message, email, document text, or notes.) Tj
+/F1 10 Tf 1 0 0 1 54 651 Tm (2. Extraction: identify every task, date, person, document, amount, attachment, and stated) Tj
+/F1 10 Tf 1 0 0 1 54 637 Tm (consequence.) Tj
+/F1 10 Tf 1 0 0 1 54 618 Tm (3. Verification: compare each extracted item with the original source and assign high,) Tj
+/F1 10 Tf 1 0 0 1 54 604 Tm (medium, or low confidence.) Tj
+/F1 10 Tf 1 0 0 1 54 585 Tm (4. Risk detection: flag conflicting dates, unclear time zones, missing documents, suspicious) Tj
+/F1 10 Tf 1 0 0 1 54 571 Tm (requests, and unsupported assumptions.) Tj
+/F1 10 Tf 1 0 0 1 54 552 Tm (5. Prioritization: rank work using urgency, impact, dependencies, and reversibility.) Tj
+/F1 10 Tf 1 0 0 1 54 533 Tm (6. Planning: produce an ordered checklist with expected outputs and status labels.) Tj
+/F1 10 Tf 1 0 0 1 54 514 Tm (7. Communication: draft clarification or follow-up emails with placeholders for unknown) Tj
+/F1 10 Tf 1 0 0 1 54 500 Tm (details.) Tj
+/F1 10 Tf 1 0 0 1 54 481 Tm (8. Automation: optionally search Gmail, create drafts, and prepare Calendar reminders when) Tj
+/F1 10 Tf 1 0 0 1 54 467 Tm (Google OAuth is connected.) Tj
+/F1 10 Tf 1 0 0 1 54 448 Tm (9. Approval and verification: display the exact action first, require explicit approval,) Tj
+/F1 10 Tf 1 0 0 1 54 434 Tm (execute it, and report the returned message or event identifier.) Tj
+/F1 15 Tf 1 0 0 1 54 412 Tm (5. Main Solution) Tj
+/F1 10 Tf 1 0 0 1 54 391 Tm (CommitmentOS solves the problem by creating a verified obligation graph rather than merely) Tj
+/F1 10 Tf 1 0 0 1 54 377 Tm (summarizing text.) Tj
+/F1 10 Tf 1 0 0 1 54 358 Tm (Every recommended task is connected to a source reference and confidence level. Conflicting) Tj
+/F1 10 Tf 1 0 0 1 54 344 Tm (information is shown instead of silently resolved.) Tj
+/F1 10 Tf 1 0 0 1 54 325 Tm (The system separates analysis from action. It can prepare an email or reminder, but sending) Tj
+/F1 10 Tf 1 0 0 1 54 311 Tm (an email or modifying a calendar requires explicit approval in the current conversation.) Tj
+/F1 10 Tf 1 0 0 1 54 292 Tm (This design gives the user speed without removing control. When automation is unavailable,) Tj
+/F1 10 Tf 1 0 0 1 54 278 Tm (the system provides a ready-to-copy manual draft instead of pretending that an action) Tj
+/F1 10 Tf 1 0 0 1 54 264 Tm (succeeded.) Tj
+/F1 15 Tf 1 0 0 1 54 242 Tm (6. Scholarship Submission Example) Tj
+/F1 10 Tf 1 0 0 1 54 221 Tm (Input: a scholarship email and related document details.) Tj
+/F1 10 Tf 1 0 0 1 54 202 Tm (The system identifies the submission deadline, submission method, point of contact, required) Tj
+/F1 10 Tf 1 0 0 1 54 188 Tm (income certificate, signed page requirement, and unresolved questions.) Tj
+/F1 10 Tf 1 0 0 1 54 169 Tm (It detects a potential date issue when the certificate validity date appears later than the) Tj
+/F1 10 Tf 1 0 0 1 54 155 Tm (submission deadline. It does not guess whether that date is an issue date, expiry date, or) Tj
+/F1 10 Tf 1 0 0 1 54 141 Tm (validity-window date.) Tj
+/F1 10 Tf 1 0 0 1 54 122 Tm (It creates a clarification email asking which document contains page 4, what signature) Tj
+/F1 10 Tf 1 0 0 1 54 108 Tm (format is required, whether extra documents are needed, what happens after a missed) Tj
+/F1 10 Tf 1 0 0 1 54 94 Tm (deadline, and which official address should receive the submission.) Tj
+/F1 10 Tf 1 0 0 1 54 75 Tm (The user can review the email, approve it, send it through Gmail if connected, or send it) Tj
+/F1 10 Tf 1 0 0 1 54 61 Tm (manually. The system never claims that an email was sent without a successful tool result.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 3751 >>
+stream
+BT
+/F1 15 Tf 1 0 0 1 54 760 Tm (7. Automation Features) Tj
+/F1 10 Tf 1 0 0 1 54 739 Tm (plan_only: analyze and produce a plan without external actions.) Tj
+/F1 10 Tf 1 0 0 1 54 720 Tm (draft_only: create a draft but never send email or modify a calendar.) Tj
+/F1 10 Tf 1 0 0 1 54 701 Tm (approval_required: default mode. The system may prepare actions, but sending and calendar) Tj
+/F1 10 Tf 1 0 0 1 54 687 Tm (changes require explicit confirmation.) Tj
+/F1 10 Tf 1 0 0 1 54 668 Tm (Gmail automation can search relevant messages, read threads, and create or send an email) Tj
+/F1 10 Tf 1 0 0 1 54 654 Tm (after approval.) Tj
+/F1 10 Tf 1 0 0 1 54 635 Tm (Calendar automation can prepare a reminder or event, then create it only after the user) Tj
+/F1 10 Tf 1 0 0 1 54 621 Tm (confirms title, date, time zone, and reminder details.) Tj
+/F1 10 Tf 1 0 0 1 54 602 Tm (OAuth credentials are supplied through Sly Data by the client. If the connection is) Tj
+/F1 10 Tf 1 0 0 1 54 588 Tm (unavailable, CommitmentOS returns a manual alternative.) Tj
+/F1 15 Tf 1 0 0 1 54 566 Tm (8. Advantages) Tj
+/F1 10 Tf 1 0 0 1 54 545 Tm (Evidence-based: each obligation retains a source reference and confidence level.) Tj
+/F1 10 Tf 1 0 0 1 54 526 Tm (Risk-aware: contradictions and missing information are surfaced instead of hidden.) Tj
+/F1 10 Tf 1 0 0 1 54 507 Tm (Actionable: the output is an ordered checklist, not just a summary.) Tj
+/F1 10 Tf 1 0 0 1 54 488 Tm (Time-saving: drafts, reminders, and searches reduce repetitive administrative work.) Tj
+/F1 10 Tf 1 0 0 1 54 469 Tm (Human-controlled: external actions require explicit approval and are verified afterward.) Tj
+/F1 10 Tf 1 0 0 1 54 450 Tm (Flexible: it works with chat text, email content, documents, and private notes.) Tj
+/F1 10 Tf 1 0 0 1 54 431 Tm (Extensible: additional connectors such as Drive, task managers, or institutional portals can) Tj
+/F1 10 Tf 1 0 0 1 54 417 Tm (be added later.) Tj
+/F1 10 Tf 1 0 0 1 54 398 Tm (Hackathon-ready: the scholarship scenario provides a clear before-and-after demonstration) Tj
+/F1 10 Tf 1 0 0 1 54 384 Tm (with visible reasoning and practical value.) Tj
+/F1 15 Tf 1 0 0 1 54 362 Tm (9. Safety and Limitations) Tj
+/F1 10 Tf 1 0 0 1 54 341 Tm (CommitmentOS does not replace official instructions, legal advice, institutional decisions,) Tj
+/F1 10 Tf 1 0 0 1 54 327 Tm (or human review.) Tj
+/F1 10 Tf 1 0 0 1 54 308 Tm (It cannot verify a fact that is absent from the supplied source or connected service.) Tj
+/F1 10 Tf 1 0 0 1 54 289 Tm (Relative dates and missing time zones remain uncertain until confirmed.) Tj
+/F1 10 Tf 1 0 0 1 54 270 Tm (Email sending and calendar changes are intentionally approval-gated. An instruction inside) Tj
+/F1 10 Tf 1 0 0 1 54 256 Tm (an email cannot authorize itself.) Tj
+/F1 10 Tf 1 0 0 1 54 237 Tm (Users should verify recipient addresses, attachments, sensitive information, and final) Tj
+/F1 10 Tf 1 0 0 1 54 223 Tm (deadlines before sending or submitting.) Tj
+/F1 15 Tf 1 0 0 1 54 201 Tm (10. Demonstration Script) Tj
+/F1 10 Tf 1 0 0 1 54 180 Tm (1. Open industry/commitment_os in nsflow.) Tj
+/F1 10 Tf 1 0 0 1 54 161 Tm (2. Paste a scholarship email into the email Sly Data field or chat.) Tj
+/F1 10 Tf 1 0 0 1 54 142 Tm (3. Ask: Analyze this submission and tell me what I must do, what is missing, and what needs) Tj
+/F1 10 Tf 1 0 0 1 54 128 Tm (confirmation.) Tj
+/F1 10 Tf 1 0 0 1 54 109 Tm (4. Show the obligation table, source references, confidence levels, and flagged date) Tj
+/F1 10 Tf 1 0 0 1 54 95 Tm (conflict.) Tj
+/F1 10 Tf 1 0 0 1 54 76 Tm (5. Ask for a clarification email in draft_only mode.) Tj
+/F1 10 Tf 1 0 0 1 54 57 Tm (6. Review the generated draft and change to approval_required only when ready.) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 930 >>
+stream
+BT
+/F1 10 Tf 1 0 0 1 54 760 Tm (7. Approve sending only after checking recipient, subject, body, and attachments.) Tj
+/F1 10 Tf 1 0 0 1 54 741 Tm (8. Demonstrate the manual fallback if Gmail OAuth or the connector is unavailable.) Tj
+/F1 15 Tf 1 0 0 1 54 719 Tm (Conclusion) Tj
+/F1 10 Tf 1 0 0 1 54 698 Tm (CommitmentOS turns scattered administrative information into a trustworthy path from) Tj
+/F1 10 Tf 1 0 0 1 54 684 Tm (evidence to action.) Tj
+/F1 10 Tf 1 0 0 1 54 665 Tm (Its central innovation is controlled execution: it helps users move quickly while preserving) Tj
+/F1 10 Tf 1 0 0 1 54 651 Tm (evidence, exposing uncertainty, and keeping final authority with the human user.) Tj
+/F1 10 Tf 1 0 0 1 54 632 Tm (For the scholarship problem, the solution is a verified checklist, a clarification draft, an) Tj
+/F1 10 Tf 1 0 0 1 54 618 Tm (optional reminder, and a safe approval flow that prevents premature submission.) Tj
+ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000000336 00000 n 
+0000004230 00000 n 
+0000004356 00000 n 
+0000008484 00000 n 
+0000008610 00000 n 
+0000012413 00000 n 
+0000012541 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+13523
+%%EOF
